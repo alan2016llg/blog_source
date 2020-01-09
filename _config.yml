@@ -81,4 +81,4 @@ deploy:
   type: git
   repo: https://github.com/alan2016llg/alan.github.io.git
   branch: master
-  message: [message]
+  message: MYblog
