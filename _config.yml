@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 老龚的博客
+title: 菜鸟的博客
 subtitle:
 description:
 keywords:
-author: fiendo
+author: alan
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://fiendoghx.github.io
+url: https://alan.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,6 +79,6 @@ theme: 3-hexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/fiendoghx/fiendoghx.github.io.git
+  repo: https://github.com/alan2016llg/alan.github.io.git
   branch: master
   message: [message]
