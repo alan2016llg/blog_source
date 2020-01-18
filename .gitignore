@@ -22,3 +22,5 @@ source/lib/font-awesome/scss/
 !source/lib/velocity/
 
 public/
+
+.deploy_git/
